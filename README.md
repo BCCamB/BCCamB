@@ -21,6 +21,15 @@ I love playing the tabletop role-playing board game Dungeons and Dragons.
 
 </details>
 
+<details>
+ <summary>My DnD Character, Cade Goodbarrel the Halfling Fighter</summary>
+ 
+ <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BCCamB/BCCamB/blob/main/CadeGB_HeroForge_Halberd2.png?raw=true">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/BCCamB/BCCamB/blob/main/CadeGB_HeroForge_Halberd2.png?raw=true">
+ <img alt="An armored halfling fighter wielding a halbard in a thrusting position. He has dark red-oak colored skin and dark, thick, somewhat short hair in a swept-back style. There is a large crossbow holstered on his back." src="https://github.com/BCCamB/BCCamB/blob/main/CadeGB_HeroForge_Halberd2.png?raw=true">
+</picture>
+</details>
 
 ---
 > Oh, we're far apart;
