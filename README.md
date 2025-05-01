@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/3/37/Westafrikanisches_Stachelschwein.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/3/37/Westafrikanisches_Stachelschwein.jpg">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
 <!--
 **BCCamB/BCCamB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
