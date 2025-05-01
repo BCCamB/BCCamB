@@ -31,6 +31,14 @@ I love playing the tabletop role-playing board game Dungeons and Dragons.
 </picture>
 </details>
 
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 ---
 > Oh, we're far apart;
 We're casual and smart;
