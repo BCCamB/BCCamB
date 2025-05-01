@@ -15,9 +15,9 @@ I love playing the tabletop role-playing board game Dungeons and Dragons.
 
 | Rank | My Favorite Dice |
 |-----:|------------------|
-|     1|        d20       |
-|     2|        d12       |
-|     3|        d8        |
+|     1|        d12       |
+|     2|        d8        |
+|     3|        d20       |
 
 </details>
 
